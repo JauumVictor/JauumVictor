@@ -4,7 +4,7 @@
 <h3> 🤠 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🔥 &nbsp; Dono do <a href="https://discord.gg/yEyKEeJ">Fluxo da Putaria</a>.
+- 🔥 &nbsp; Dono de <a href="https://discord.gg/yEyKEeJ">um servidor do Discord</a>.
 - 🌱 &nbsp; Aprendendo mais cada dia.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
