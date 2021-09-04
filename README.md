@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 🔥 &nbsp; Dono do <a href="https://discord.gg/yEyKEeJ">Fluxo da Putaria</a>
+- 🔥 &nbsp; Dono do <a href="https://discord.gg/yEyKEeJ">Fluxo da Putaria</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Pentesting**, **JavaScript**.
 
 <h3> :rocket: &nbsp;Minhas Habilidades </h3>
