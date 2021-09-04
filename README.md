@@ -56,11 +56,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JauumVictor&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[website]: https://codedev.ga/
-[twitter]: https://twitter.com/SEUTWITTER
-[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
-[instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[twitter]: https://twitter.com/c0deina_
+[youtube]: https://www.youtube.com/channel/UCetimaokW1xSANEXlawjyYw
+[discord]: https://discord.gg/yEyKEeJ
 <br>
 
 <br/>
