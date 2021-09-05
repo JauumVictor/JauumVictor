@@ -58,3 +58,5 @@ Pegue uma bebida e venha relaxar com a gente!
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yEyKEeJ)
 [![Gmail Badge](https://img.shields.io/badge/-joaovictor9162@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor9162@gmail.com)](mailto:joaovictor9162@outlook.com)
 [![GitHub JauumVictor](https://img.shields.io/github/followers/JauumVictor?label=follow&style=social)](https://github.com/JauumVictor)
+
+![Snake animation](https://github.com/JauumVictor/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
