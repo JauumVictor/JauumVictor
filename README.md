@@ -46,6 +46,7 @@ Pegue uma bebida e venha relaxar com a gente!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JauumVictor&show_icons=true&hide_border=true)](https://github.com/JauumVictor)
 
+<br>
 
 ## 🎧 Spotify:
 
