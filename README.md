@@ -59,4 +59,4 @@ Pegue uma bebida e venha relaxar com a gente!
 [![Gmail Badge](https://img.shields.io/badge/-joaovictor9162@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor9162@gmail.com)](mailto:joaovictor9162@outlook.com)
 [![GitHub JauumVictor](https://img.shields.io/github/followers/JauumVictor?label=follow&style=social)](https://github.com/JauumVictor)
 
-![Snake animation](https://github.com/JauumVictor/zSpl1nterUS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JauumVictor/Farofa/blob/main/.github/workflows/grid-snake.svg)
