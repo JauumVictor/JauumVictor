@@ -5,10 +5,10 @@
 ## 🤠 Sobre mim:
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🔥 &nbsp; Dono de <a href="https://discord.gg/yEyKEeJ">um servidor do Discord</a>.
+- 🔥 &nbsp; Dono de um <a href="https://discord.gg/yEyKEeJ">servidor do Discord</a>.
 - 🌱 &nbsp; Aprendendo mais cada dia.
 
-## 🚀 Interesses :
+## 🚀 Interesses:
 
 **Aplicações e Dados**
 
