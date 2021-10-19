@@ -5,7 +5,7 @@
 ## 🤠 Sobre mim:
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🔥 &nbsp; Dono de um <a href="https://discord.gg/yEyKEeJ">servidor do Discord</a>.
+- 🔥 &nbsp; Dono de um <a href="https://discord.gg/c9NMjQGC3e">servidor do Discord</a>.
 - 🌱 &nbsp; Aprendendo mais cada dia.
 
 ## 🚀 Interesses:
@@ -37,7 +37,7 @@
 
 Pegue uma bebida e venha relaxar com a gente!
 
-[![Community](https://discordapp.com/api/guilds/741162959405056060/widget.png?style=banner4)](https://discord.gg/yEyKEeJ)
+[![Community](https://discordapp.com/api/guilds/741162959405056060/widget.png?style=banner4)](https://discord.gg/c9NMjQGC3e)
 
 
 ## 📊 Estatísticas:
@@ -56,7 +56,7 @@ Pegue uma bebida e venha relaxar com a gente!
 
 ## 🌎 Onde me encontrar:
 
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/yEyKEeJ)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/c9NMjQGC3e)
 [![Gmail Badge](https://img.shields.io/badge/-joaovictor9162@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor9162@gmail.com)](mailto:joaovictor9162@outlook.com)
 [![GitHub JauumVictor](https://img.shields.io/github/followers/JauumVictor?label=follow&style=social)](https://github.com/JauumVictor)
 
