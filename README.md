@@ -37,7 +37,7 @@
 
 Pegue uma bebida e venha relaxar com a gente!
 
-[![Community](https://discordapp.com/api/guilds/741162959405056060/widget.png?style=banner4)](https://discord.gg/c9NMjQGC3e)
+[![Community](https://discordapp.com/api/guilds/741162959405056060/widget.png?style=banner4)](https://discord.gg/zWXSxBWpZc)
 
 
 ## 📊 Estatísticas:
