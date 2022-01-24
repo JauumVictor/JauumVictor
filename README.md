@@ -1,6 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=JauumVictor&color=006bed)
 
+<p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/600804786492932101.png" />
+</p>
 
 ## 🤠 Sobre mim:
 
