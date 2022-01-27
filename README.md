@@ -6,7 +6,6 @@
   ## 🤠 Sobre mim:
 
   - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-  - 🔥 &nbsp; Dono de um <a href="https://discord.gg/zWXSxBWpZc">servidor do Discord</a>.
   - 🌱 &nbsp; Aprendendo mais cada dia.
 
   ## 🚀 Interesses:
@@ -34,13 +33,6 @@
   ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
   ![KaliLinux](https://img.shields.io/badge/-KaliLinux-333333?style=flat&logo=kalilinux)
-
-  ## 🤩 Minha comunidade:
-
-  Pegue uma bebida e venha relaxar com a gente!
-
-  [![Community](https://discordapp.com/api/guilds/899333550640349204/widget.png?style=banner4)](https://discord.gg/zWXSxBWpZc)
-
 
   ## 📊 Estatísticas:
 
