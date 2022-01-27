@@ -53,7 +53,6 @@
 
   ## 🌎 Onde me encontrar:
 
-  [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/zWXSxBWpZc)
   [![Gmail
   Badge](https://img.shields.io/badge/-joaovictor9162@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor9162@gmail.com)](mailto:joaovictor9162@outlook.com)
   [![GitHub
