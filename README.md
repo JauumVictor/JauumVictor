@@ -42,14 +42,9 @@
   [![Top
   Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JauumVictor&show_icons=true&hide_border=true)](https://github.com/JauumVictor)
 
-  <br>
-  <br>
+  ## 🤩 Minha comunidade:
 
-## 🤩 Minha comunidade:
-
-Pegue uma bebeida e venha relaxar com a gente!
-
-[![Community](https://discordapp.com/api/guilds/899333550640349204/widget.png?style=banner4)](https://discord.gg/fluxo)
+  [![Community](https://discordapp.com/api/guilds/899333550640349204/widget.png?style=banner4)](https://discord.gg/fluxo)
 
   ## 🎧 Spotify:
 
