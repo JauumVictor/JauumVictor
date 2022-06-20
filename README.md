@@ -53,8 +53,6 @@
 
   ## 🌎 Onde me encontrar:
 
-<iframe src="https://discord.com/widget?id=899333550640349204&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
   [![Gmail
   Badge](https://img.shields.io/badge/-joaovictor9162@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovictor9162@gmail.com)](mailto:joaovictor9162@outlook.com)
   [![GitHub
