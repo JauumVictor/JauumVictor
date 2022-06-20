@@ -45,6 +45,12 @@
   <br>
   <br>
 
+## 🤩 Minha comunidade:
+
+Pegue uma bebeida e venha relaxar com a gente!
+
+[![Community](https://discordapp.com/api/guilds/899333550640349204/widget.png?style=banner4)](https://discord.gg/fluxo)
+
   ## 🎧 Spotify:
 
   [![Meu
